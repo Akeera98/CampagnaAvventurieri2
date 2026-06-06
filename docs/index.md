@@ -4,11 +4,6 @@
   <h1>PROXIMA</h1>
 </div>
 
-<div class="hero-subtitle">
-  <strong>Cuore dell'Impero</strong><br>
-  Un continente. Sette regni. Una sola Imperatrice.
-</div>
-
 ---
 
 > Dopo tre secoli di guerre, il continente di Proxima è stato unificato sotto una sola corona.  
@@ -17,6 +12,10 @@
 {: .quote-imperial }
 
 ## Esplora il mondo
+
+Nuovi avventurieri, in cerca di fortuna, si trovano nella città di Ferrostahl, dell'ex regno di Imperasteela. Cosa si porrà sul loro cammino?
+
+Prima di rispondere a questa domanda, esploriamo l'impero:
 
 <div class="cards" markdown>
 
