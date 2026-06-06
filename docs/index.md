@@ -4,6 +4,8 @@
   <h1>PROXIMA</h1>
 </div>
 
+![Mappa di Proxima](img/mappa.png)
+
 ---
 
 > Dopo tre secoli di guerre, il continente di Proxima è stato unificato sotto una sola corona.  
