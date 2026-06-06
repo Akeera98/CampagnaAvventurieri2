@@ -12,6 +12,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Passa alla modalità chiara
+
     - scheme: default
       primary: brown
       accent: amber
@@ -21,9 +22,11 @@ theme:
 
 nav:
   - Home: index.md
+
   - Lore:
       - L'Impero di Proxima: lore/impero.md
       - Pantheon: lore/pantheon.md
+
   - Storia:
       - La Piaga del Fuoco: storia/piaga-del-fuoco.md
 
