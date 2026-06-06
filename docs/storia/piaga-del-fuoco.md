@@ -3,14 +3,14 @@
 ## **L'incidente della piaga del fuoco**
 
 ## Anno 67 
-elle montagne a est di Ferrostahl accade qualcosa di singolare: le lampade degli abitanti si spengono. 
+Nelle montagne a est di Ferrostahl accade qualcosa di singolare: le lampade degli abitanti si spengono. 
 
 Non si intuisce bene il motivo, ma gli acciarini non sembrano più funzionare, e ogni fiamma sembra spegnersi nei villaggi a est. 
 Le segnalazioni arrivano prima a Ferrostahl, la città più vicina. Non viene data troppa importanza alla cosa, e viene ingaggiato un team di quattro avventurieri alle prime armi per indagare. 
 
 *I quattro non faranno mai ritorno.*
 
-Le notizie nel frattempo arrivano alla capitale, dove il generale all'epoca incaricato, **Poe Ratcho**, decide di indagare personalmente sullo strano fenomeno, insieme a dei suoi fidati uomini.
+Le notizie nel frattempo arrivano alla capitale, dove il generale all'epoca incaricato come Comandante, **Poe Ratcho**, decide di indagare personalmente sullo strano fenomeno, insieme a dei suoi fidati uomini.
 
 Il generale resta parecchio sgomento. nei villaggi non riesce ad accendere alcuna fiamma, ma non sembra essere presente alcuna traccia magica, o qualcosa che possa far intuire l'origine del fenomeno. 
 
@@ -42,4 +42,4 @@ I due candidati sono Jean Pyarverse, l'eroe della piaga, e Poe Ratcho.
 
 L'imperatrice riconosce il valore di Jean Pyraverse e il suo sostegno della popolazione nonostante pensi che Poe ratcho sia un politico migliore. 
 
-Decide dunque di eleggere Jean Pyraverse, consiglianfolo caldamente di mantenere come primo consigliere il precedente generale.
+Decide dunque di eleggere Jean Pyraverse come Comandante, consiglianfolo caldamente di mantenere come primo consigliere il precedente generale.
