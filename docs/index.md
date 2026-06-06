@@ -21,7 +21,7 @@
 <div class="cards" markdown>
 
 <div class="card" markdown>
-### 🏛️ Impero
+### L'Impero
 
 Struttura politica, regni, capitali e comandanti dell'Impero.
 
