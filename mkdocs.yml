@@ -1,0 +1,64 @@
+site_name: Proxima
+site_description: Cuore dell'Impero
+site_author: Lu
+site_url: https://akeera98.github.io/proxima-wiki/
+
+repo_url: https://github.com/Akeera98/proxima-wiki
+repo_name: Akeera98/proxima-wiki
+
+# Tema: richiede MkDocs Material, installato automaticamente dalla GitHub Action inclusa.
+theme:
+  name: material
+  language: it
+  palette:
+    - scheme: slate
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Passa alla modalità chiara
+    - scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Passa alla modalità scura
+  font:
+    text: Merriweather
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Lore:
+      - L'Impero di Proxima: lore/impero.md
+      - Pantheon: lore/pantheon.md
+  - Storia:
+      - La Piaga del Fuoco: storia/piaga-del-fuoco.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css

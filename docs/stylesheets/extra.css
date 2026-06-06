@@ -1,0 +1,57 @@
+:root {
+  --md-primary-fg-color: #8a5a20;
+  --md-accent-fg-color: #d6a23a;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  letter-spacing: 0.02em;
+}
+
+.md-typeset h1 {
+  font-variant: small-caps;
+}
+
+.hero-title {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subtitle {
+  text-align: center;
+  font-size: 1.1rem;
+  opacity: 0.85;
+  margin-bottom: 1.5rem;
+}
+
+.hero-map img {
+  border-radius: 14px;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.45);
+}
+
+.quote-imperial {
+  font-size: 1.05rem;
+  border-left: 0.25rem solid #d6a23a;
+  padding-left: 1rem;
+  opacity: 0.95;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.card {
+  border: 1px solid rgba(214, 162, 58, 0.35);
+  border-radius: 12px;
+  padding: 1rem;
+  background: rgba(214, 162, 58, 0.06);
+}
+
+.card h3 {
+  margin-top: 0;
+}
