@@ -9,16 +9,11 @@
   Un continente. Sette regni. Una sola Imperatrice.
 </div>
 
-<div class="hero-map">
-
-![Mappa di Proxima](img/mappa.png)
-
-</div>
-
 ---
 
 > Dopo tre secoli di guerre, il continente di Proxima è stato unificato sotto una sola corona.  
 > Da cento anni regna la pace, forgiata con sangue, volontà e progresso.
+> Tuttavia, un nuovo gelo sta arrivando nel mondo.
 {: .quote-imperial }
 
 ## Esplora il mondo
@@ -34,15 +29,15 @@ Struttura politica, regni, capitali e comandanti dell'Impero.
 </div>
 
 <div class="card" markdown>
-### ☀️ Pantheon
+### Il Pantheon
 
-Gli dei riconosciuti dall'Impero: Nus, Azarith-Kai e le altre potenze divine.
+Gli dei riconosciuti dall'Impero.
 
 [Apri la pagina](lore/pantheon.md)
 </div>
 
 <div class="card" markdown>
-### 🔥 Piaga del Fuoco
+### Piaga del Fuoco
 
 Una cronaca storica su uno degli eventi più inquietanti di Imperasteela.
 
@@ -54,4 +49,4 @@ Una cronaca storica su uno degli eventi più inquietanti di Imperasteela.
 ## Lettura rapida per i giocatori
 
 !!! note "Da sapere prima della campagna"
-    Proxima è un impero stabile, ricco e tecnologicamente avanzato. La pace dura da un secolo, ma nessuna pace nata dopo trecento anni di guerra è davvero innocente. Sorpresa: la propaganda imperiale non ha inventato l'acqua calda, ma la sa vendere benissimo.
+    Proxima è un impero stabile, ricco e tecnologicamente avanzato. La pace dura da un secolo, ma un evento ha scosso la sua tranquillità.
