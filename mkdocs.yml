@@ -1,10 +1,10 @@
 site_name: Proxima
 site_description: Cuore dell'Impero
-site_author: Lu
-site_url: https://akeera98.github.io/proxima-wiki/
+site_author: Akira
+site_url: https://akeera98.github.io/CampagnaAvventurieri2/
 
-repo_url: https://github.com/Akeera98/proxima-wiki
-repo_name: Akeera98/proxima-wiki
+repo_url: https://github.com/Akeera98/CampagnaAvventurieri2
+repo_name: Akeera98/CampagnaAvventurieri2
 
 # Tema: richiede MkDocs Material, installato automaticamente dalla GitHub Action inclusa.
 theme:
